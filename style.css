@@ -9,9 +9,9 @@ background: blue;}
 .live-a{color: black;}
 .live-a:hover{color:white;}
 
-.custom-img{border-radius: 50% !important;
+.custom-img{
 height: 400px;
-width: 400px;} 
+width: 340px;} 
 /* navmenu */
 /* .navmenu{display: flex;
 gap: 50px !important;} */
@@ -30,8 +30,8 @@ gap: 50px !important;} */
 } 
 
 @media(max-width:500px){
-    .custom-img{border-radius: 50% !important;
+    .custom-img{
 height: 300px;
-width: 300px;
+width: 200px;
 margin-left: px;} 
 }
