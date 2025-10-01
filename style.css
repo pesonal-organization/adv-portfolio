@@ -26,12 +26,12 @@ gap: 50px !important;} */
   box-shadow: 0 0 10px rgba(0, 242, 254, 0.7);
   transform: scale(1.07);
     
-  /* background-color:#1387c1;
-  color: #fff;
-  padding: 2px 5px;
-  border-radius: 5px; */
-  /* transform: scale(1.05);
-  box-shadow: 0 4px 10px rgba(0,0,0,0.2); */
+  
 } 
 
-
+@media(max-width:500px){
+    .custom-img{border-radius: 50% !important;
+height: 300px;
+width: 300px;
+margin-left: 40px;} 
+}
