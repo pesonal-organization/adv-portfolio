@@ -9,7 +9,9 @@ background: blue;}
 .live-a{color: black;}
 .live-a:hover{color:white;}
 
-.custom-img{border-radius: 50% !important;}
+.custom-img{border-radius: 50% !important;
+height: 400px;
+width: 400px;} 
 /* navmenu */
 /* .navmenu{display: flex;
 gap: 50px !important;} */
